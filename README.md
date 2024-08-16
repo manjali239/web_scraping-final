@@ -13,7 +13,7 @@ Setup and Installation
 Clone the repository:
 
 \
-git clone https://github.com/yourusername/amazon-product-scraper.git
+git clone https://github.com/manjali239/web_scraping-final
 cd amazon-product-scraper
 Create and activate a virtual environment:
 python3 -m venv env
